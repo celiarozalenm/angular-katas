@@ -1,0 +1,9 @@
+
+<input #cityName type="text">
+<button (click)="addCity(cityName.value)">ADD CITY</button>
+<ul>
+  <li *ngFor="let city of cities">
+    <p>City Name: {{city.city_name}}</p>
+    <p>Temperature: {{city.temperature}}</p>
+  </li>
+</ul>
