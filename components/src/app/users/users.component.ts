@@ -6,6 +6,7 @@ import { User } from '../user';
   templateUrl: './users.component.html',
   styleUrls: ['./users.component.sass']
 })
+
 export class UsersComponent implements OnInit {
 
   // Child gets parent info

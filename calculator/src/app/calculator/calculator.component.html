@@ -1,6 +1,6 @@
-<input #number type="text"><br>
-<button (click)="sum(num1, num2)">+</button>
-<button (click)="substract(num1, num2)">-</button>
-<button (click)="multiply(num1, num2)">X</button>
-<button (click)="divide(num1, num2)">/</button><br>  
-<input type="text">
+<input #number1 type="text"><input #number2 type="text"><br>
+<button (click)="sum(number1.value, number2.value)">+</button>
+<button (click)="subtract(number1.value, number2.value)">-</button>
+<button (click)="multiply(number1.value, number2.value)">X</button>
+<button (click)="divide(number1.value, number2.value)">/</button><br>  
+<p>RESULT: {{result}}</p>

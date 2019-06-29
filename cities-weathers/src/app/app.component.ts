@@ -14,6 +14,7 @@ export class AppComponent {
     {city_name: "Norway", temperature: -10},
     {city_name: "Dubai", temperature: 40}
   ];  
+  
   public randomTemperature : number; 
 
   constructor(private RandomTemperature: RandomTemperatureService){
