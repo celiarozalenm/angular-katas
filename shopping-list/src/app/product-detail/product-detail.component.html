@@ -1,3 +1,4 @@
+<div>{{productsList}}</div>
 <div *ngIf="product"> 
   <h1>Product</h1>
   <ul>
@@ -5,5 +6,7 @@
     <li>Price: {{product.price}}</li>
     <li>Quantity: {{product.quantity}}</li>
   </ul>
-  <p>TOTAL:</p>
+  <p>TOTAL: {{totalPrice}}</p>
 </div>
+
+<button (click)="goBack()">go back</button>

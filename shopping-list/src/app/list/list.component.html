@@ -1,12 +1,10 @@
 <span>Name </span><input #productName type="text"><br>
 <span>Price </span><input #productPrice type="number"><br>
 <span>Quantity </span><input #productQuantity type="number"><br><br>
-<button (click)="addProductToList(productName.value, productPrice.value, productQuantity.value)">ADD CITY</button>
+<button (click)=" this.productsService.addProductToList(productName.value, productPrice.value, productQuantity.value)">ADD PRODUCT</button>
 
 <h2>Product List</h2>
 <ul>
-    <li *ngFor="let product of productsList">
-        <a routerLink="/detail/{{product.name}}">
-            {{product.name}}</a>
+    <li *ngFor="let product of productList"><a routerLink="/detail/{{product.name}}" routerLinkActive="active">{{product.name}}</a>
     </li>
 </ul>
