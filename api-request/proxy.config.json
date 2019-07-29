@@ -1,0 +1,7 @@
+{
+    "/api/*":{
+        "target":"https://dog.ceo/",
+        "secure":false,
+        "logLevel":"debug"
+    }
+}

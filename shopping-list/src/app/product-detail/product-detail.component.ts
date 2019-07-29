@@ -25,6 +25,10 @@ export class ProductDetailComponent implements OnInit {
   ) { }
 
   ngOnInit() {
+    this.selectedProductData();
+  }
+
+  selectedProductData(): void{
     for (let i = 0; i < this.productList.length; i++){
       if (this.productList[i].name == this.selectedProductName) {
         this.product = this.productList[i];
