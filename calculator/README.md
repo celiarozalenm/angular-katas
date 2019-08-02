@@ -1,5 +1,5 @@
 
-#Calculator 🔢
+# Calculator 🔢
 
 1. Create a new **component** *calculator* with 2 input (the two numbers you want to calculate) an 4 buttons elements (the operators).
 2. Add this new component to the parent.

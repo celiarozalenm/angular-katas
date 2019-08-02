@@ -1,4 +1,4 @@
-#Alarm ⏰
+# Alarm ⏰
 
 1. Create a new **component** *alert* with a button (start).
 2. Create a **service** *alarm* with an **observable** that receives an estimated time in seconds and completes when that time finalizes.

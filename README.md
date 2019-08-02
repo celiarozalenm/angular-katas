@@ -5,7 +5,7 @@ Components, classes, bindings, attributes, events, services, providers, directiv
 
 In each particular kata, you have a Readme file with its statement, here you have a direct link to each one: 
 
-1. [Components 📦] (https://github.com/CeliaRozalenM/angular-katas/tree/master/components)
+1. [Components 📦](https://github.com/CeliaRozalenM/angular-katas/tree/master/components)
 2. [Cities Weathers 🌡️](https://github.com/CeliaRozalenM/angular-katas/tree/master/cities-weathers)
 3. [Calculator 🔢](https://github.com/CeliaRozalenM/angular-katas/tree/master/calculator)
 4. [Shopping List 🛒](https://github.com/CeliaRozalenM/angular-katas/tree/master/shopping-list)
@@ -17,12 +17,6 @@ In each particular kata, you have a Readme file with its statement, here you hav
 - Complete Angular practice
 - Focused entirely on the technical part
 - Info received from the [Dog API](https://dog.ceo/dog-api/) on kata 6
-
-## Requirements
-- Node
-- NPM
-- Angular CLI
-
 
 ## Setup
 > Make sure you have globally installed: **Node**, **NPM**, **Angular CLI**.
