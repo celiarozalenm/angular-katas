@@ -1,27 +1,8 @@
-# ShoppingList
+#Shopping List 🛒
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.4.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+1. Create the **component** *list* and add to the view 3 inputs (name, price, and quantity) and one button (add to list).
+2. Add a **class** *Product* with the **attributes**: name, price, and quantity.
+3. When clicking the button, the product filed on the form above has to be added on a list in the view, showing the product's name.
+4. Generate a new **service** which collects this products list array. 
+5. Create a new **component** named *product-detail* which receives the info of the clicked product in the view list. This component shows the products name, price, quantity and total price (considering quantity and price) in a new **route**.
+6. Add a button in *product-detail* component which allows going back to the list.
