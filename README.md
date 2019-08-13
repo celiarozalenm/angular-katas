@@ -5,12 +5,12 @@ Components, classes, bindings, attributes, events, services, providers, directiv
 
 In each particular kata, you have a Readme file with its statement, here you have a direct link to each one: 
 
-1. [Components 📦](https://github.com/CeliaRozalenM/angular-katas/tree/master/components)
-2. [Cities Weathers 🌡️](https://github.com/CeliaRozalenM/angular-katas/tree/master/cities-weathers)
-3. [Calculator 🔢](https://github.com/CeliaRozalenM/angular-katas/tree/master/calculator)
-4. [Shopping List 🛒](https://github.com/CeliaRozalenM/angular-katas/tree/master/shopping-list)
-5. [Alarm ⏰](https://github.com/CeliaRozalenM/angular-katas/tree/master/alarm)
-6. [API Request 📞](https://github.com/CeliaRozalenM/angular-katas/tree/master/api-request)
+📦 [Components](https://github.com/CeliaRozalenM/angular-katas/tree/master/components)
+🌡️ [Cities Weathers](https://github.com/CeliaRozalenM/angular-katas/tree/master/cities-weathers)
+🔢 [Calculator](https://github.com/CeliaRozalenM/angular-katas/tree/master/calculator)
+🛒 [Shopping List](https://github.com/CeliaRozalenM/angular-katas/tree/master/shopping-list)
+⏰ [Alarm](https://github.com/CeliaRozalenM/angular-katas/tree/master/alarm)
+📞 [API Request](https://github.com/CeliaRozalenM/angular-katas/tree/master/api-request)
 
 ## Features
 

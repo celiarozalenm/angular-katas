@@ -1,4 +1,4 @@
-# Cities Weathers 🌡️
+#🌡️ Cities Weathers
 
 1. Add an input (name of the city) and a button element (add city) on the parent component.
 2. Create a **class** with the name *City* with the **attributes** name and temperature.
