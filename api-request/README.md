@@ -1,4 +1,4 @@
-#📞 API Request 
+# 📞 API Request 
 
 1. Generate a **component** *dog* which has a button and an image. 
 2. Create a **service** *images* which sends a **request** to the [Dog API](https://dog.ceo/dog-api/) and returns an object.

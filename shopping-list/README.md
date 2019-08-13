@@ -1,4 +1,4 @@
-#🛒 Shopping List
+# 🛒 Shopping List
 
 1. Create the **component** *list* and add to the view 3 inputs (name, price, and quantity) and one button (add to list).
 2. Add a **class** *Product* with the **attributes**: name, price, and quantity.
