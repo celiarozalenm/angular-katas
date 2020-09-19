@@ -27,7 +27,7 @@
     "tar": ">=2.2.2",
     "tslib": "^1.10.0",
     "zone.js": "~0.8.26",
-    "lodash": ">=4.17.13",
+    "lodash": ">=4.17.19",
     "set-value": ">=2.0.1"
   },
   "devDependencies": {
